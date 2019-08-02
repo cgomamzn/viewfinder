@@ -1,8 +1,9 @@
 # viewfinder
-APC Camera Crop Factor Calculator | Gives you an idea of what the Full-Frame equivalent view would be via a viewfinder.
+APC Camera Crop Factor Calculator | Gives you an idea of what the Full-Frame equivalent view would be utilizing the following formula.
 
 # Funtion to multiply APC Crop Factor by Focal Lenght
-* sony = float(1.5)
-* canon = float(1.6)
-* fuji = float(1.5)
-* leica = float(1.5)
+# Input Focal Lenght
+* __Sony__ = float(1.5) * __Focal Lenght__
+* __Canon__ = float(1.6) * __Focal Lenght__
+* __Fuji__ = float(1.5) * __Focal Lenght__
+* __Leica__ = float(1.5) * __Focal Lenght__
